@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/gradient_background"
+    android:layout_height="match_parent"
+    tools:context="com.example.muhammadkhan.ridersapp.Activities.DriverPassenger">
+
+    <Button
+        android:id="@+id/driver_city"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_gradient"
+        android:text="AS Driver"
+        android:textColor="#E65100"
+        android:textStyle="bold"
+        android:layout_marginTop="120dp"
+        android:layout_below="@+id/textView11"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/passenger"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_gradient"
+        android:text="AS PASSENGER"
+        android:textColor="#E65100"
+        android:textStyle="bold"
+        android:layout_marginTop="11dp"
+        android:layout_below="@+id/driver_city"
+        android:layout_alignLeft="@+id/driver_city"
+        android:layout_alignStart="@+id/driver_city" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Riders"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:layout_marginTop="126dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register As:"
+        android:textColor="@color/colorBottomNavigationActiveColored"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/passenger"
+        android:layout_alignLeft="@+id/textView11"
+        android:layout_alignStart="@+id/textView11"
+        android:layout_marginLeft="22dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginBottom="62dp" />
+</RelativeLayout>

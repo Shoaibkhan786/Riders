@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bike"
+            android:icon="@mipmap/ic_motorcycle_black_24dp"
+            android:title="Bike" />
+        <item
+            android:id="@+id/bus"
+            android:icon="@mipmap/ic_directions_bus_black_24dp"
+            android:title="Bus"/>
+        <item
+            android:id="@+id/car"
+            android:icon="@mipmap/ic_local_taxi_black_24dp"
+            android:title="Car" />
+        <item
+            android:id="@+id/rikhshaw"
+            android:icon="@mipmap/rikshaw"
+            app:showAsAction="always"
+            android:title="Rikhshaw" />
+
+        <item
+            android:id="@+id/qingqi"
+            android:icon="@mipmap/qinjqi"
+            android:title="Qingqi" />
+        <item
+            android:id="@+id/van"
+            android:icon="@mipmap/van"
+            app:showAsAction="always"
+            android:title="Van" />
+        <item
+            android:id="@+id/sazuki"
+            android:icon="@mipmap/bolan_sazuki"
+            app:showAsAction="always"
+            android:title="SazukiBolan" />
+
+
+    </group>
+</menu>

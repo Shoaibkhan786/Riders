@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="start">#FFB74D</color>
+    <color name="end">#e65100</color>
+    <color name="center">#d47a08</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="buttonStart">#006064</color>
+    <color name="buttonCenter">#80DEEA</color>
+</resources>
