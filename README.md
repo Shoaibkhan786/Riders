@@ -17,3 +17,6 @@ The followings are the funtional application interfaces.
 
 ## Six digits Security Code
 <img src="https://user-images.githubusercontent.com/18638795/40890813-737a9c2a-6795-11e8-9d43-c82c8c323f1d.JPG" height="400" width="250">
+
+## Passenger Main Screen
+<img src="https://user-images.githubusercontent.com/18638795/40891061-1718622e-6799-11e8-9544-8e649fbcd6f8.png" height="400" width="250">
