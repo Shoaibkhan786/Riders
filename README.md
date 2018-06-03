@@ -11,7 +11,9 @@ Rider is a native android application which helps passengers to make their ride 
 The followings are the funtional application interfaces.
 ## Register as Driver or Passenger
 <img src="https://user-images.githubusercontent.com/18638795/40890748-2b0182fc-6794-11e8-9a7e-3b059b6db444.png" height="400" width="250">
+
 ## Phone Number Verification
 <img src="https://user-images.githubusercontent.com/18638795/40890796-1dc6e70c-6795-11e8-9bbc-199fece2271b.png" height="400" width="250">
+
 ## Six digits Security Code
 <img src="https://user-images.githubusercontent.com/18638795/40890813-737a9c2a-6795-11e8-9d43-c82c8c323f1d.JPG" height="400" width="250">
