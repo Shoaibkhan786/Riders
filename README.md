@@ -13,5 +13,8 @@ The followings are the funtional application interfaces.
 ![splash](https://user-images.githubusercontent.com/18638795/40890748-2b0182fc-6794-11e8-9a7e-3b059b6db444.png)
 ## Phone Number Verification
 ![phonenumber](https://user-images.githubusercontent.com/18638795/40890796-1dc6e70c-6795-11e8-9bbc-199fece2271b.png)
+## Enter six digits security code
+![img_8049 1](https://user-images.githubusercontent.com/18638795/40890813-737a9c2a-6795-11e8-9d43-c82c8c323f1d.JPG)
+
 
 
