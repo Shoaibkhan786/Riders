@@ -7,5 +7,8 @@ Rider is a native android application which helps passengers to make their ride 
 - Enabling passengers to search drivers in their current cities.
 - Search for a specific vehicle.
 - Instant Chat. 
+# Application Interface
+The followings are the funtional application interfaces.
+## Register as Driver or Passenger
 ![splash](https://user-images.githubusercontent.com/18638795/40890748-2b0182fc-6794-11e8-9a7e-3b059b6db444.png)
 
