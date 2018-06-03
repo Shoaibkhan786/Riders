@@ -24,5 +24,7 @@ The followings are the funtional application interfaces.
 ## Driver Main Screen
 <img src="https://user-images.githubusercontent.com/18638795/40891095-ac268a62-6799-11e8-9f04-824c2f5c4d96.png" height="400" width="250">
 
-## Driver Search(According to Passenger Current City)
+## Driver Search(According to Passenger Current Cit)
 <img src="https://user-images.githubusercontent.com/18638795/40891144-2c6353b8-679a-11e8-9290-b23b36d896b7.png" height="400" width="250">
+## Ride Contract Booking with Driver
+<img src="https://user-images.githubusercontent.com/18638795/40891208-01d46b04-679b-11e8-8b1d-30126e031673.png" height="400" width="250">
