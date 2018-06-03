@@ -20,3 +20,6 @@ The followings are the funtional application interfaces.
 
 ## Passenger Main Screen
 <img src="https://user-images.githubusercontent.com/18638795/40891061-1718622e-6799-11e8-9544-8e649fbcd6f8.png" height="400" width="250">
+
+## Driver Main Screen
+<img src="https://user-images.githubusercontent.com/18638795/40891095-ac268a62-6799-11e8-9f04-824c2f5c4d96.png" height="400" width="250">
