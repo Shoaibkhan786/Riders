@@ -35,3 +35,7 @@ The followings are the funtional application interfaces.
 
 ## Ride Contract Booking with Driver
 <img src="https://user-images.githubusercontent.com/18638795/40891208-01d46b04-679b-11e8-8b1d-30126e031673.png" height="400" width="250">
+
+## Tracking Passenger on Google maps integrated in the application
+<img src="https://user-images.githubusercontent.com/18638795/40997465-3a8c95b4-691e-11e8-9a56-51b6dd968504.png" height="400" width="250">
+
